@@ -154,6 +154,10 @@ nav {
 
 /* DESKTOP */
 @media (min-width: 1024px) {
+  body{
+        display: grid;
+    justify-content: center;
+  }
   nav {
     margin: 77px 120px 0 120px;
   }
